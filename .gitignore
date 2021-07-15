@@ -18,7 +18,8 @@ car_dataset/
 Hacarton.ipynb/
 english_voice_data/
 carteen_people_data/
-
+Dacon_Token.txt
+baseline.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
